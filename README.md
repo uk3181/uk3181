@@ -92,9 +92,11 @@
       <td><b>주요 내용</b></td>
       <td>제한 시간 안에 알고리즘 문제를 풀고 코드를 작성하는 대회</td>
     </tr>
+    <tr>
+      <td><b>상장</b></td>
+      <td><img src="./docs/images/awards/goricon_award.jpg" width=400></td>
+    </tr>
   </table>
-  상장
-  ![](./docs/images/awards/goricon_award.jpg)
 
 ## 6. 학습 및 성장
 
