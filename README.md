@@ -66,8 +66,8 @@
   | 사용자 정보 변경 알림 업데이트 | 알림 시스템 | 사용자 정보가 변경될 때마다 사용자 알림 목록에 사용자 정보 변경 알림 추가 |
 - **Github 저장소 및 시연 링크**
   - **Github 저장소**: https://github.com/uk3181/J-Study-Checker
-  - 다운로드 및 설치: 
-
+  - **다운로드**: https://github.com/uk3181/J-Study-Checker/releases/download/v1.0/J.Study.Checker.Installer.exe
+  - **설치**: J.Study.Checker.Installer.exe 실행 후 안내에 따라 설치 진행
 ## 5. 경험 및 활동
 
 ## 6. 학습 및 성장
