@@ -97,6 +97,25 @@
       <td><img src="./docs/images/awards/goricon_award.jpg" width=400></td>
     </tr>
   </table>
+- ICPC 본선 진출
+  <table>
+    <tr>
+      <td><b>대회명</b></td>
+      <td>ICPC Asia Seoul Regional Onsite Contest</td>
+    </tr>
+    <tr>
+      <td><b>대회 단계</b></td>
+      <td>서울 지역 본선</td>
+    </tr>
+    <tr>
+      <td><b>참가 날짜</b></td>
+      <td>2025년 11월 22일</td>
+    </tr>
+    <tr>
+      <td><b>참가 확인서</b></td>
+      <td><img src="./docs/images/certificates/icpc_certificate.jpg" width=550></td>
+    </tr>
+  </table>
 
 ## 6. 학습 및 성장
 
