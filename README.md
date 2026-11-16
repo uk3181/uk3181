@@ -116,6 +116,27 @@
       <td><img src="./docs/images/certificates/icpc_certificate.jpg" width=550></td>
     </tr>
   </table>
+### 5.5. 개발 봉사 및 사회공헌 활동
+- 웹기반 방탈출 개발 프로젝트 봉사
+  <table>
+    <tr>
+      <td><b>활동명</b></td>
+      <td>웹기반 방탈출 개발 프로젝트 봉사</td>
+    </tr>
+    <tr>
+      <td><b>활동 목적</b></td>
+      <td>게임을 통한 봉사 정신 함양 및 교육 지원</td>
+    </tr>
+    <tr>
+      <td><b>담당 역할</b></td>
+      <td>웹 애플리케이션 개발</td>
+    </tr>
+    <tr>
+      <td><b>활동 내역</b></td>
+      <td><a href="https://github.com/uk3181/DongnaeEscape">[Github] 방탈출 - 동래구 기록 복구 프로젝트</a></td>
+    </tr>
+  </table>
+
 
 ## 6. 학습 및 성장
 
