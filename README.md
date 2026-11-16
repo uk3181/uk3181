@@ -68,7 +68,31 @@
   - **Github 저장소**: https://github.com/uk3181/J-Study-Checker
   - **다운로드**: https://github.com/uk3181/J-Study-Checker/releases/download/v1.0/J.Study.Checker.Installer.exe
   - **설치**: J.Study.Checker.Installer.exe 실행 후 안내에 따라 설치 진행
+
 ## 5. 경험 및 활동
+### 5.1. 개발 관련 학습 및 교육
+### 5.2. 팀 프로젝트 경험
+### 5.3. 개인 프로젝트 경험
+### 5.4. 기술 관련 활동 및 수상 내역
+- 우수상
+  <table>
+    <tr>
+      <td><b>대회명</b></td>
+      <td>Goricon[알고리즘 경진대회]</td>
+    </tr>
+    <tr>
+      <td><b>수상 기관</b></td>
+      <td>경북대학교 소프트웨어교육원</td>
+    </tr>
+    <tr>
+      <td><b>수상 날짜</b></td>
+      <td>2025년 6월 30일</td>
+    </tr>
+    <tr>
+      <td><b>주요 내용</b></td>
+      <td>제한 시간 안에 알고리즘 문제를 풀고 코드를 작성하는 대회</td>
+    </tr>
+  </table>
 
 ## 6. 학습 및 성장
 
