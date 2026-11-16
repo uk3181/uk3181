@@ -73,3 +73,6 @@
 ## 6. 학습 및 성장
 
 ## 7. 연락처
+- **Email**: uk3181@daum.net
+- **Github**:
+- **Instagram**: https://www.instagram.com/jaewook3181
