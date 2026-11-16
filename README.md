@@ -74,5 +74,5 @@
 
 ## 7. 연락처
 - **Email**: uk3181@daum.net
-- **Github**:
+- **Github**: https://github.com/uk3181
 - **Instagram**: https://www.instagram.com/jaewook3181
