@@ -3,6 +3,9 @@
 ## 1. 자기소개
 
 ## 2. 나에 대한 소개
+- **전공**: 경북대학교 컴퓨터학부 글로벌SW융합전공
+- **관심 분야**: 웹 백엔드 개발
+- **성격 및 강점**:
 
 ## 3. 기술 스택
 - **Programming Languages**: Java, Python, C++, C
@@ -71,9 +74,7 @@
 
 ## 5. 경험 및 활동
 ### 5.1. 개발 관련 학습 및 교육
-### 5.2. 팀 프로젝트 경험
-### 5.3. 개인 프로젝트 경험
-### 5.4. 기술 관련 활동 및 수상 내역
+### 5.2. 기술 관련 활동 및 수상 내역
 - Goricon 알고리즘 경진대회 우수상
   <table>
     <tr>
@@ -116,7 +117,7 @@
       <td><img src="./docs/images/certificates/icpc_certificate.jpg" width=550></td>
     </tr>
   </table>
-### 5.5. 개발 봉사 및 사회공헌 활동
+### 5.3. 개발 봉사 및 사회공헌 활동
 - 웹기반 방탈출 개발 프로젝트 봉사
   <table>
     <tr>
@@ -137,10 +138,11 @@
     </tr>
   </table>
 
+## 6. 자격증
 
-## 6. 학습 및 성장
+## 7. 학습 및 성장
 
-## 7. 연락처
+## 8. 연락처
 - **Email**: uk3181@daum.net
 - **Github**: https://github.com/uk3181
 - **Instagram**: https://www.instagram.com/jaewook3181
