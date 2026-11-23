@@ -215,6 +215,22 @@
   </table>
 
 ## 5. 자격증
+- SQL 개발자
+  <table>
+    <tr>
+      <td><b>발급 기관</b></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td><b>취득일</b></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td><b>취득 증빙자료</b></td>
+      <td></td>
+    </tr>
+  </table>
+
 
 ## 6. 연락처
 - **Email**: uk3181@daum.net
