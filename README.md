@@ -114,8 +114,8 @@
       <td><b>활동 성과</b></td>
       <td>
         <ul>
-          <li>ICPC 본선 진출</li>
-          <li>Goricon 알고리즘 경진대회 우수상 수상</li>
+          <li><a href="https://github.com/uk3181/uk3181#42-기술-관련-활동-및-수상-내역">ICPC 본선 진출</a></li>
+          <li><a href="https://github.com/uk3181/uk3181#42-기술-관련-활동-및-수상-내역">Goricon 알고리즘 경진대회 우수상 수상</a></li>
         </ul>
       </td>
     </tr>
