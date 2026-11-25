@@ -30,8 +30,8 @@
 </table>
 
 ## [1](#table-of-contents). 자기소개
-- **전공**: 경북대학교 컴퓨터학부 글로벌SW융합전공
-- **관심 분야**: 웹 백엔드 개발
+- **전공:** 경북대학교 컴퓨터학부 글로벌SW융합전공
+- **관심 분야:** 웹 백엔드 개발
 - **성격 및 강점**
   - 프로그래밍 역량: 정확하고 효율적인 방법으로 프로그래밍을 하는 데 자신이 있다. 또한 클라이언트의 요구 사항을 프로젝트에 정확히 반영하는 데 자신이 있다. 파이썬 중형 팀 프로젝트 과제가 포함된 대학 교과목에서 [운동 관리 프로그램](https://github.com/uk3181/Fit-Checker)을 직접 기획·개발함으로써 우수한 성과를 거두어 A+ 학점을 취득했다.
   - 디버깅 및 문제 해결 능력: 복잡한 코드에서 문법 오류 및 의도한 대로 동작하지 않는 코드를 신속하게 원인을 파악하고 해결하는 데 자신이 있다. [ICPC 본선 대회](#42-기술-관련-활동-및-수상-내역)에서 특정 문제를 해결하는 과정에서 의도한 동작과 다르게 흘러가는 코드를 팀원이 아무도 찾지 못했는데 내가 빠른 시간 내에 오류가 발생한 부분을 수정하여 팀의 성과에 기여하였다.
@@ -39,25 +39,25 @@
   - 리더십: 팀 프로젝트를 수행할 때 프로젝트 기획·설계·역할 분배를 주도함으로써 프로젝트가 효율적으로 진행될 수 있도록 한다. 대학 교과목 중 \"소프트웨어 설계\" 과목에서 [뇌졸중 위험도 산출 기반 건강 관리 시스템](https://github.com/molto-piu-tranquillo/stroke-risk-health-manager)을 개발하는 팀 프로젝트 활동에서 화면 구성과 기능을 구체화하고 개발 업무 분담을 주도하였다.
 
 ## [2](#table-of-contents). 기술 스택
-- **Programming Languages**: Java, Python, C++, C
-- **Frontend**: HTML, JavaScript
-- **Backend**: JSP, Servlet, JDBC
-- **Database**: Oracle SQL
-- **Server**: Apache Tomcat
-- **Cloud & Infrastructure**: AWS EC2, AWS S3
-- **GUI Development**: Tkinter, Java Swing
-- **Tools & Development Environment**: Eclipse, Visual Studio Code
+- **Programming Languages:** Java, Python, C++, C
+- **Frontend:** HTML, JavaScript
+- **Backend:** JSP, Servlet, JDBC
+- **Database:** Oracle SQL
+- **Server:** Apache Tomcat
+- **Cloud & Infrastructure:** AWS EC2, AWS S3
+- **GUI Development:** Tkinter, Java Swing
+- **Tools & Development Environment:** Eclipse, Visual Studio Code
 
 ## [3](#table-of-contents). 프로젝트
 ### [3.1](#table-of-contents). [방탈출 - 동래구 기록 복구 프로젝트](https://github.com/uk3181/DongnaeEscape)
-- **프로젝트명 및 소개**: 동래구 기록 복구 프로젝트는 봉사자들이 봉사 정신을 함양할 수 있도록 제작된 웹 기반 방탈출 게임 프로그램이다. 플레이어는 제한 시간 내에 각종 문제를 풀어 방탈출을 시도할 수 있고, 관리자는 플레이어별 게임 플레이 기록을 확인할 수 있다.
-- **프로젝트 개발 목적**: 봉사자들이 게임 형식을 통해 더욱 흥미롭게 봉사 정신을 함양할 수 있도록 교육용으로 개발되었다. 또한 관리자가 각 봉사자별 게임 기록을 확인하고, 조건에 부합하는 봉사자의 봉사 시간을 1365 자원봉사포털 사이트에 입력할 수 있도록 도와준다.
+- **프로젝트명 및 소개:** 동래구 기록 복구 프로젝트는 봉사자들이 봉사 정신을 함양할 수 있도록 제작된 웹 기반 방탈출 게임 프로그램이다. 플레이어는 제한 시간 내에 각종 문제를 풀어 방탈출을 시도할 수 있고, 관리자는 플레이어별 게임 플레이 기록을 확인할 수 있다.
+- **프로젝트 개발 목적:** 봉사자들이 게임 형식을 통해 더욱 흥미롭게 봉사 정신을 함양할 수 있도록 교육용으로 개발되었다. 또한 관리자가 각 봉사자별 게임 기록을 확인하고, 조건에 부합하는 봉사자의 봉사 시간을 1365 자원봉사포털 사이트에 입력할 수 있도록 도와준다.
 - **사용 기술**
-  - **Frontend**: HTML, CSS, JavaScript
-  - **Backend**: Java, JSP, Servlet
-  - **Database**: Oracle SQL
-  - **Tools**: Eclipse, Github
-- **담당 역할**: Java, HTML, JavaScript 대부분(admin.js, bgm_audio.js, chat.js, main_theme.js, problem_set.js, session_storage_manager.js, sfx_manager.js, sound_button.js, timer.js), SQL 개발
+  - **Frontend:** HTML, CSS, JavaScript
+  - **Backend:** Java, JSP, Servlet
+  - **Database:** Oracle SQL
+  - **Tools:** Eclipse, Github
+- **담당 역할:** Java, HTML, JavaScript 대부분(admin.js, bgm_audio.js, chat.js, main_theme.js, problem_set.js, session_storage_manager.js, sfx_manager.js, sound_button.js, timer.js), SQL 개발
 - **주요 구현 기능**
   | 기능 | 사용자 유형 | 설명 |
   | --- | -------- | --- |
@@ -72,19 +72,19 @@
   | 플레이 기록 조회 | 관리자 | 최근 50명 사용자들의 플레이 기록(접속 시간, 마지막 해결 방, 마지막 해결 오브젝트, 게임 성공 여부, 이해도) 조회 |
   | 플레이 통계 조회 | 관리자 | 전체 사용자들의 게임 플레이 기록의 통계 조회 |
 - **Github 저장소 및 시연 링크**
-  - **Github 저장소**: https://github.com/uk3181/DongnaeEscape
-  - **봉사자용 시연 링크**: http://dongnae-escape.kro.kr
-  - **관리자용 시연 링크**: http://dongnae-escape.kro.kr/admin
+  - **Github 저장소:** https://github.com/uk3181/DongnaeEscape
+  - **봉사자용 시연 링크:** http://dongnae-escape.kro.kr
+  - **관리자용 시연 링크:** http://dongnae-escape.kro.kr/admin
 ### [3.2](#table-of-contents). [학습 및 성적 관리 시스템](https://github.com/uk3181/J-Study-Checker)
-- **프로젝트명 및 소개**: J Study Checker는 학습 시간과 성적을 통합적으로 관리하고 분석할 수 있는 Windows 기반 학습 관리 프로그램이다. 학습 기록, 과목별 통계, 성적 분석 및 예측, 타이머 등의 기능을 제공한다.
-- **프로젝트 개발 목적**: 학습 시간과 휴식 시간을 분리해 관리하고 집중도를 분석하며, 성적 변화 및 예측을 시각적으로 나타내어 사용자가 자신의 학습 습관과 성적 간의 상관관계를 파악할 수 있도록 하였다. 이를 통해 성적이 상대적으로 부족한 과목을 보완할 수 있는 기대 효과를 가져온다.
+- **프로젝트명 및 소개:** J Study Checker는 학습 시간과 성적을 통합적으로 관리하고 분석할 수 있는 Windows 기반 학습 관리 프로그램이다. 학습 기록, 과목별 통계, 성적 분석 및 예측, 타이머 등의 기능을 제공한다.
+- **프로젝트 개발 목적:** 학습 시간과 휴식 시간을 분리해 관리하고 집중도를 분석하며, 성적 변화 및 예측을 시각적으로 나타내어 사용자가 자신의 학습 습관과 성적 간의 상관관계를 파악할 수 있도록 하였다. 이를 통해 성적이 상대적으로 부족한 과목을 보완할 수 있는 기대 효과를 가져온다.
 - **사용 기술**
-  - **Language**: Python
-  - **GUI**: Tkinter
-  - **Data Analysis**: Numpy, Scikit-learn
-  - **Visualization**: Matplotlib
-  - **Data Management**: Pickle, SortedContainters, Datetime
-- **담당 역할**: Python 개발
+  - **Language:** Python
+  - **GUI:** Tkinter
+  - **Data Analysis:** Numpy, Scikit-learn
+  - **Visualization:** Matplotlib
+  - **Data Management:** Pickle, SortedContainters, Datetime
+- **담당 역할:** Python 개발
 - **주요 구현 기능**
   | 기능 | 사용자 유형 | 설명 |
   | --- | -------- | --- |
@@ -99,9 +99,9 @@
   | 리마인더 알림 업데이트 | 알림 시스템 | 사용자가 앱을 사용하는 날짜에 해당하는 리마인더가 있는지 확인하고, 있을 경우 사용자의 알림 목록에 리마인더 알림 추가 |
   | 사용자 정보 변경 알림 업데이트 | 알림 시스템 | 사용자 정보가 변경될 때마다 사용자 알림 목록에 사용자 정보 변경 알림 추가 |
 - **Github 저장소 및 시연 링크**
-  - **Github 저장소**: https://github.com/uk3181/J-Study-Checker
-  - **다운로드**: https://github.com/uk3181/J-Study-Checker/releases/download/v1.0/J.Study.Checker.Installer.exe
-  - **설치**: J.Study.Checker.Installer.exe 실행 후 안내에 따라 설치 진행
+  - **Github 저장소:** https://github.com/uk3181/J-Study-Checker
+  - **다운로드:** https://github.com/uk3181/J-Study-Checker/releases/download/v1.0/J.Study.Checker.Installer.exe
+  - **설치:** J.Study.Checker.Installer.exe 실행 후 안내에 따라 설치 진행
 
 ## [4](#table-of-contents). 경험 및 활동
 ### [4.1](#table-of-contents). 개발 관련 학습 및 교육
@@ -250,5 +250,5 @@
 
 
 ## [6](#table-of-contents). 연락처
-- **Email**: uk3181@daum.net
-- **Github**: https://github.com/uk3181
+- **Email:** uk3181@daum.net
+- **Github:** https://github.com/uk3181
