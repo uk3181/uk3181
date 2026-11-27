@@ -232,15 +232,15 @@
   </table>
 
 ## [5](#table-of-contents). 자격증
-- SQL 개발자
+- SQL 개발자(SQLD)
   <table>
     <tr>
       <td><b>발급 기관</b></td>
-      <td></td>
+      <td>한국데이터산업진흥원</td>
     </tr>
     <tr>
       <td><b>취득일</b></td>
-      <td></td>
+      <td>2026년 12월 04일</td>
     </tr>
     <tr>
       <td><b>취득 증빙자료</b></td>
